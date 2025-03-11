@@ -9,3 +9,5 @@
 // Dovremmo vedere il terminale senza fermare e rilanciare il server.
 // Bonus
 // Proviamo a modificare la nostra app Node, in modo da passare dal terminale una frase diversa da “Hello Boolean”.
+
+console.log("Hello World!");
