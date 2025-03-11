@@ -11,3 +11,6 @@
 // Proviamo a modificare la nostra app Node, in modo da passare dal terminale una frase diversa da “Hello Boolean”.
 
 console.log("Hello Boolean!");
+
+const testoDaStamapare = process.argv[2];
+console.log(testoDaStamapare);
